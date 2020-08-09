@@ -15,6 +15,7 @@
 		8766B0AB24D8DE530093831B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8766B0A924D8DE530093831B /* LaunchScreen.storyboard */; };
 		8766B0B624D8DE540093831B /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8766B0B524D8DE540093831B /* TipCalculatorTests.swift */; };
 		8766B0C124D8DE540093831B /* TipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8766B0C024D8DE540093831B /* TipCalculatorUITests.swift */; };
+		87BAC1C024E06C25007500AA /* TipCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87BAC1BF24E06C25007500AA /* TipCalculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8766B0BC24D8DE540093831B /* TipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8766B0C024D8DE540093831B /* TipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorUITests.swift; sourceTree = "<group>"; };
 		8766B0C224D8DE540093831B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87BAC1BF24E06C25007500AA /* TipCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8766B0A024D8DE500093831B /* SceneDelegate.swift */,
 				8766B0A224D8DE500093831B /* ViewController.swift */,
 				8766B0A424D8DE500093831B /* Main.storyboard */,
+				87BAC1BF24E06C25007500AA /* TipCalculator.swift */,
 				8766B0A724D8DE530093831B /* Assets.xcassets */,
 				8766B0A924D8DE530093831B /* LaunchScreen.storyboard */,
 				8766B0AC24D8DE530093831B /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8766B0A324D8DE500093831B /* ViewController.swift in Sources */,
+				87BAC1C024E06C25007500AA /* TipCalculator.swift in Sources */,
 				8766B09F24D8DE500093831B /* AppDelegate.swift in Sources */,
 				8766B0A124D8DE500093831B /* SceneDelegate.swift in Sources */,
 			);
