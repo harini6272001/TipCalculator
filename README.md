@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Recordit](https://recordit.co/5dWYuLrLqn).
+GIF created with [Recordit](http://g.recordit.co/MApNNqlZdc.gif).
 
 ## Notes
 
